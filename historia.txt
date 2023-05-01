@@ -6,9 +6,7 @@ viviendo en todo el mundo
 
 Anita platzi es una persona que contribuye a este proyecto open source y nacio en internet
 
-<<<<<<< HEAD
-Hoy hablaremos de su vida y obra maestra.
-=======
+Master 1
+
 Mañana nos enfocaremos en su vida laboral
->>>>>>> cabecera 
 
